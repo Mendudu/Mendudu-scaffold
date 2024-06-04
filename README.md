@@ -18,4 +18,4 @@ And it will inject the correct driver (your db choice) and setup in the server p
 4) Web application is setup and ready to use. You now have a frontend project (React) with backend (Mendudu) and LuaSQL driver to connect to database.
 This is a fullstack example project to get started in just a few minutes instead of setting up all by yourself. 
 
-## This is in the workings and will be announced at our LinkedIn and on our homepage (https://mendudu.com) so keep yourself updated. You can also join our Discord to keep yourself updated.  
+## This is in the workings and will be announced at our LinkedIn and on our homepage (https://mendudu.com) so keep yourself updated. You can also join our Discord to keep yourself updated link on homepage. 
